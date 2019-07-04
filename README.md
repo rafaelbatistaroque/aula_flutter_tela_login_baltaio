@@ -1,15 +1,12 @@
-# aula_flutter_tela_login_baltaio
+# Aula Flutter com Balta.io - Tela de Login
 
-A new Flutter project.
+Project for tested and improving The Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is ScreenShot Flutter project:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Screen of login](https://github.com/rafaelbatistaroque/aula_flutter_tela_login_baltaio/tree/master/assets/SS-login.png)
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
