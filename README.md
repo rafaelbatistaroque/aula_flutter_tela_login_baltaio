@@ -6,7 +6,7 @@ Project for tested and improving The Flutter
 
 This is ScreenShot Flutter project:
 
-![ScreenOfLogin](https://github.com/rafaelbatistaroque/aula_flutter_tela_login_baltaio/tree/master/assets/SS-Login.png)
+![ScreenOfLogin](https://github.com/rafaelbatistaroque/aula_flutter_tela_login_baltaio/tree/master/assets/SS-Login.PNG)
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
